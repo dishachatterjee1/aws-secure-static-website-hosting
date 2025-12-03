@@ -1,7 +1,7 @@
 # *AWS Secure Static Website Hosting with Global Content Delivery, Monitoring & Disaster Recovery*
 
-This project demonstrates how to host a *production-ready static website* on AWS using *Amazon S3 + CloudFront, protected with **HTTPS, WAF, IAM least privilege, monitored with **CloudTrail/CloudWatch, and backed by a **simple Disaster Recovery architecture* using *S3 Cross-Region Replication (CRR)*.
-The entire setup is done using the *AWS Management Console*.
+This project demonstrates how to host a production-ready static website on AWS using Amazon S3 + CloudFront, protected with HTTPS, WAF, IAM least privilege, monitored with CloudTrail/CloudWatch, and backed by a simple Disaster Recovery architecture using S3 Cross-Region Replication (CRR).
+The entire setup is done using the AWS Management Console.
 
 ---
 
